@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhex_vue2022_shop"]=self["webpackChunkhex_vue2022_shop"]||[]).push([[443],{7381:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var s=u(3396);const t={class:"about"},a=(0,s._)("h1",null,"This is an about page",-1),r=[a];function c(e,n){return(0,s.wg)(),(0,s.iD)("div",t,r)}var h=u(89);const o={},i=(0,h.Z)(o,[["render",c]]);var f=i}}]);
+//# sourceMappingURL=about.09c3494e.js.map
